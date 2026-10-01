@@ -1,0 +1,30 @@
+Document_ID,Line_ID,Planted_Error
+DOC00098,195,Missing cost center
+DOC00411,821,Missing cost center
+DOC00295,589,Missing cost center
+DOC00311,621,Missing cost center
+DOC00435,869,Missing cost center
+DOC00289,577,Missing cost center
+DOC00152,303,Missing cost center
+DOC00305,609,Missing cost center
+DOC00019,38,Invalid GL account
+DOC00364,727,Invalid GL account
+DOC00424,847,Invalid GL account
+DOC00148,296,Invalid GL account
+DOC00463,925,Invalid GL account
+DOC00131,,Preparer equals approver
+DOC00292,,Preparer equals approver
+DOC00038,,Preparer equals approver
+DOC00240,,Preparer equals approver
+DOC00192,,Preparer equals approver
+DOC00421,,Preparer equals approver
+DOC00067,134,Debit/Credit imbalance
+DOC00153,306,Debit/Credit imbalance
+DOC00124,248,Debit/Credit imbalance
+DOC00286,572,Debit/Credit imbalance
+DOC00071,142,Debit/Credit imbalance
+DOC00242_DUP,,Duplicate of DOC00242
+DOC00449_DUP,,Duplicate of DOC00449
+DOC00076_DUP,,Duplicate of DOC00076
+DOC00213_DUP,,Duplicate of DOC00213
+DOC00482_DUP,,Duplicate of DOC00482
