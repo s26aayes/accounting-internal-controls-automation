@@ -5,28 +5,10 @@ An automated accounting control and exception-monitoring framework built with **
 The project demonstrates how repetitive accounting checks can be transformed into a refreshable control workflow covering **General Ledger validation, internal controls, period-end review, and selected IFRS-oriented accounting scenarios**.
 
 ---
-![Accounting & Internal Control Dashboard](Screenshots/dashboard.png)
 ## 🎯 Project Objective
 
 Accounting teams routinely perform controls such as:
-
-- checking whether journal entries balance,
-- validating GL accounts and cost centers,
-- identifying duplicate postings,
-- reviewing segregation of duties,
-- investigating unusual transactions,
-- reviewing period-end postings,
-- and performing accounting-specific valuation and recognition checks.
-
-Performing these checks manually becomes time-consuming as transaction volumes increase.
-
-This project creates an automated workflow:
-
-**Source Data → Power Query → Accounting Controls → Exception Reports → Control Summary → Excel Dashboard**
-
-The objective is to identify transactions requiring review while providing a concise management-level overview of control results.
-
----
+/
 
 ## 🏗️ Solution Architecture
 
