@@ -5,7 +5,7 @@ An automated accounting control and exception-monitoring framework built with **
 The project demonstrates how repetitive accounting checks can be transformed into a refreshable control workflow covering **General Ledger validation, internal controls, period-end review, and selected IFRS-oriented accounting scenarios**.
 
 ---
-
+![Accounting & Internal Control Dashboard](Screenshots/dashboard.png)
 ## 🎯 Project Objective
 
 Accounting teams routinely perform controls such as:
